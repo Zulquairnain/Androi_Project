@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application_task3_real</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="playerid">PlayerID</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="id">ID</string>
+    <string name="age_here">age here</string>
+
+    <string name="name_here">name here</string>
+
+    <string name="email_here">email here</string>
+    <string name="mail">mail</string>
+    <string name="Gamecolor" />
+    <string name="Gamelevel" />
+    <string name="maxscore" />
+    <string name="minsecore" />
+</resources>
