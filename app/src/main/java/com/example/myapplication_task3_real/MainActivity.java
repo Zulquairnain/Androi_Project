@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        button = findViewById(R.id.button);
-        textview1 = findViewById(R.id.textViewplayer);
+        button = findViewById(R.id.button1);
+        textview1 = findViewById(R.id.textViewplayerID);
         textview2 = findViewById(R.id.textViewname);
         textview3 = findViewById(R.id.textViewage);
         textview4 = findViewById(R.id.textViewemail);

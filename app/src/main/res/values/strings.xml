@@ -12,8 +12,8 @@
 
     <string name="email_here">email here</string>
     <string name="mail">mail</string>
-    <string name="Gamecolor" />
-    <string name="Gamelevel" />
-    <string name="maxscore" />
-    <string name="minsecore" />
+    <string name="Gamecolor" >Game color</string>
+    <string name="Gamelevel" >Game Level</string>
+    <string name="maxscore" >Max score</string>
+    <string name="minsecore" >Min score</string>
 </resources>
